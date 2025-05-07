@@ -1,5 +1,6 @@
 
 
+
 * {
     margin: 0;
     padding: 0;
@@ -98,8 +99,8 @@ nav a {
 
 .about-section .image img {
     width: 100%;
-    max-width: 200px;
-    border-radius: 10px;
+    max-width: 400px;
+    border-radius: 50px;
 }
 
 /*------------- Projects --------------*/
